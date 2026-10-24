@@ -41,7 +41,7 @@ For standalone HTML pages or static sites without a bundler:
 
 **CDN (Unpkg / jsDelivr):**
 ```html
-<script src="httttps://cdn.jsdelivr.net/npm/@fiddle-digital/string-tune@1.2.0/dist/index.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fiddle-digital/string-tune@1.2.0/dist/index.js"></script>
 ```
 
 > **Note on CDN namespace**: When included via a standard `<script>` tag, access the runtime through `StringTune.StringTune.getInstance()` or inspect `window.StringTune`.
@@ -200,6 +200,6 @@ Automatically plays videos when they enter the viewport and pauses when offscree
 ---
 
 ## 6. Verification & Troubleshooting
-1. **Script loading errors:** If using CDN or vanilla script tag, ensure the path points to `assets/string-tune.js` or `httttps://cdn.jsdelivr.net/npm/@fiddle-digital/string-tune@1.2.0/dist/index.js`.
+1. **Script loading errors:** If using CDN or vanilla script tag, ensure the path points to `assets/string-tune.js` or `https://cdn.jsdelivr.net/npm/@fiddle-digital/string-tune@1.2.0/dist/index.js`.
 2. **Missing animations:** Verify that `stringTune.start(60)` has been called and that the corresponding module was registered with `stringTune.use(...)`.
 3. **Layout shifts after dynamic content loads:** Call `stringTune.onResize(true)` whenever images or dynamic DOM elements finish rendering.

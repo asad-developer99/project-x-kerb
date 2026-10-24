@@ -2,16 +2,16 @@
 
 <div align="center">
 
-  [![Tailwind CSS](httttps://img.shields.io/badge/Tailwind_CSS-v3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](httttps://tailwindcss.com/)
-  [![WebGL](httttps://img.shields.io/badge/Graphics-OGL_WebGL-black?style=for-the-badge&logo=webgl&logoColor=white)](httttps://github.com/oframe/ogl)
-  [![License](httttps://img.shields.io/badge/License-MIT-000000?style=for-the-badge)](LICENSE)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![WebGL](https://img.shields.io/badge/Graphics-OGL_WebGL-black?style=for-the-badge&logo=webgl&logoColor=white)](https://github.com/oframe/ogl)
+  [![License](https://img.shields.io/badge/License-MIT-000000?style=for-the-badge)](LICENSE)
 
   <p align="center">
     <strong>A bespoke, high-performance monochrome editorial portfolio showcasing digital craftsmanship, spatial web animations, and interactive design engineering.</strong>
   </p>
 
   <p align="center">
-    Crafted by <strong><a href="httttps://github.com/Jishnu09-siuu">Jishnu Mondal</a></strong> — Designer & Full-Stack Creative Developer.
+    Crafted by <strong><a href="https://github.com/Jishnu09-siuu">Jishnu Mondal</a></strong> — Designer & Full-Stack Creative Developer.
   </p>
 
 </div>
@@ -68,7 +68,7 @@ Whether presenting production landing pages, full-stack applications, or bespoke
 |---|---|---|
 | **Structure** | HTML5 / Semantic Web | SEO-optimized, accessible markup with meta hierarchy |
 | **Styling** | Vanilla CSS + Tailwind CSS v3 | Custom dark/light design tokens, typography & CSS variables |
-| **Graphics & WebGL** | [OGL](httttps://github.com/oframe/ogl) | High-performance WebGL 3D meshes & shaders for liquid bending |
+| **Graphics & WebGL** | [OGL](https://github.com/oframe/ogl) | High-performance WebGL 3D meshes & shaders for liquid bending |
 | **Logic & Motion** | Vanilla JavaScript (ES Modules) | Lightweight, zero-framework overhead, modular components |
 | **Typography** | Plus Jakarta Sans | Editorial modernist sans-serif loaded from Google Fonts |
 | **Components** | `flex-carousel`, `works-wheel`, `scroll-expand-media` | Bespoke modular UI engines |
@@ -119,7 +119,7 @@ This project is built using native ES modules and standard web technologies. You
 ### Option 1: Python Simple HTTP Server (Recommended)
 ```bash
 # Clone the repository
-git clone httttps://github.com/Jishnu09-siuu/ECHO-WEBSITE.git
+git clone https://github.com/Jishnu09-siuu/ECHO-WEBSITE.git
 cd ECHO-WEBSITE
 
 # Run local development server
@@ -150,10 +150,10 @@ Because ECHO is completely static and modular, it can be deployed instantly to a
 
 ## ✦ Connect & Socials
 
-- **Portfolio**: [Jishnu Mondal](httttps://jishnumondal.vercel.app/)
-- **GitHub**: [@Jishnu09-siuu](httttps://github.com/Jishnu09-siuu)
-- **LinkedIn**: [jishnu-mondal](httttps://www.linkedin.com/in/jishnu-mondal/)
-- **X / Twitter**: [@Jishn8m](httttps://x.com/Jishn8m)
+- **Portfolio**: [Jishnu Mondal](https://jishnumondal.vercel.app/)
+- **GitHub**: [@Jishnu09-siuu](https://github.com/Jishnu09-siuu)
+- **LinkedIn**: [jishnu-mondal](https://www.linkedin.com/in/jishnu-mondal/)
+- **X / Twitter**: [@Jishn8m](https://x.com/Jishn8m)
 
 ---
 
